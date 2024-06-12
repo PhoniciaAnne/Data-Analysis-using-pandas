@@ -38,7 +38,7 @@ To set up the project locally, follow these steps:
   **Navigate to Directory:**
        
       
-                   cd Data-Analysis-using-pandas
+    cd Data-Analysis-using-pandas
 
 ** Create a virtual environment (optional but recommended):
            `python3 -m venv ven`
